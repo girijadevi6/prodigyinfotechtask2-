@@ -92,3 +92,4 @@ predicted_sentiment_numeric = model.predict(user_input_transformed)
 predicted_sentiment_label = label.inverse_transform(predicted_sentiment_numeric)  # Decode prediction
 print("Predicted Sentiment:", predicted_sentiment_label)
 ![image](https://github.com/user-attachments/assets/7ecea31f-a0ac-4402-bcbf-e20f9ca5edbb)
+drive link : https://drive.google.com/file/d/1k4DUwEWF0mimaQfvdbgeeYhpvT9_beeb/view?usp=sharing
